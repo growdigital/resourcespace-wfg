@@ -1,0 +1,1 @@
+{"query":"select language,name,text from site_text where (page='browsebar_js' or page='all' or page='') and (specific_to_group is null or specific_to_group=0)","time":1608759527,"results":[]}

@@ -1,0 +1,10 @@
+#question_refine{padding-bottom: 10px;}
+
+#refine_results_button {
+    background-color: white;
+    padding: 5px;
+    border-radius: 5px;
+    color: black;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    font-size:0.875rem;
+}

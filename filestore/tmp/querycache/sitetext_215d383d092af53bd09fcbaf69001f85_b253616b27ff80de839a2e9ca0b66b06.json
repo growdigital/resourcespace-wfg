@@ -1,0 +1,1 @@
+{"query":"select language,name,text from site_text where (page='team_dash_admin' or page='all' or page='') and (specific_to_group is null or specific_to_group=0)","time":1608417496,"results":[]}

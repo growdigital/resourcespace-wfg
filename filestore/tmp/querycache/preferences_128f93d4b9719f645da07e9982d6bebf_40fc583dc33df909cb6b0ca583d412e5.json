@@ -1,0 +1,1 @@
+{"query":"\n            SELECT parameter,\n                   `value`\n              FROM user_preferences\n             WHERE user = '1';\n        ","time":1608759526,"results":[{"parameter":"user_local_timezone","value":"Europe\/London"}]}

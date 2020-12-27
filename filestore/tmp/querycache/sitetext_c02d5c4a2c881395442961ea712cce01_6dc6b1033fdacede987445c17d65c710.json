@@ -1,0 +1,1 @@
+{"query":"select language,name,text from site_text where (page='user_request' or page='all' or page='') and (specific_to_group is null or specific_to_group=0)","time":1603728630,"results":[]}

@@ -1,0 +1,1 @@
+{"query":"\n        SELECT ref,\n               type,\n               autocomplete_macro\n          FROM resource_type_field\n         WHERE (resource_type = 0 || resource_type = '1')\n           AND length(autocomplete_macro) > 0\n    ","time":1608420494,"results":[]}

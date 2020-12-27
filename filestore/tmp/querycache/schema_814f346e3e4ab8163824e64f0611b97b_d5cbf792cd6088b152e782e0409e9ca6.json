@@ -1,0 +1,1 @@
+{"query":"select type value from resource_type_field where ref=8","time":1608759528,"results":[{"value":"0"}]}

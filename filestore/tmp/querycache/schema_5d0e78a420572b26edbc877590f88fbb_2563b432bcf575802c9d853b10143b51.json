@@ -1,0 +1,1 @@
+{"query":"SELECT ref AS `value` FROM resource_type","time":1608719218,"results":[{"value":"1"},{"value":"2"},{"value":"3"},{"value":"4"}]}

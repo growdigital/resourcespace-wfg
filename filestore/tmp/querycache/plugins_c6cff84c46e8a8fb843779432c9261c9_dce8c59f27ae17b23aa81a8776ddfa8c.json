@@ -1,0 +1,1 @@
+{"query":"SELECT inst_version AS value FROM plugins WHERE name='transform'","time":1609086396,"results":[{"value":"1.4"}]}

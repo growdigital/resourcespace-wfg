@@ -1,0 +1,1 @@
+{"query":"\n\t\t\t\tSELECT `name`,\n\t\t\t\t       `text`,\n\t\t\t\t       `page` \n\t\t\t\t  FROM site_text \n\t\t\t\t WHERE language = 'en'\n\t\t\t\t   AND (page = 'themes' OR page = 'all' OR page = '' ) #pagefilter\n\t\t\t\t   AND specific_to_group = '3';\n\t\t\t","time":1608458478,"results":[]}

@@ -1,0 +1,1 @@
+{"query":"select name value from resource_type where ref in (select resource_type from resource where ref='8')","time":1608420508,"results":[{"value":"Photo"}]}

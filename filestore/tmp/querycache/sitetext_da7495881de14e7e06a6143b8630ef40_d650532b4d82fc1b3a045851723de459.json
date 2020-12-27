@@ -1,0 +1,1 @@
+{"query":"select language,name,text from site_text where (page='admin_system_performance' or page='all' or page='') and (specific_to_group is null or specific_to_group=0)","time":1607890357,"results":[]}

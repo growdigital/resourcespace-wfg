@@ -1,0 +1,1 @@
+{"query":"SELECT ref, name, smart_theme_name, type FROM resource_type_field WHERE length(smart_theme_name) > 0 ORDER BY smart_theme_name","time":1608458478,"results":[]}

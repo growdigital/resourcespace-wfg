@@ -1,0 +1,1 @@
+{"query":"SELECT inherit_global_fields AS `value` FROM resource_type WHERE ref = '1'","time":1608719218,"results":[{"value":"1"}]}

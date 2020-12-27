@@ -1,0 +1,1 @@
+{"query":"SELECT ref, keywords_index, resource_column, partial_index, type, onchange_macro FROM resource_type_field WHERE ref = '12'","time":1608420494,"results":[{"ref":"12","keywords_index":"1","resource_column":"creation_date","partial_index":"0","type":"4","onchange_macro":""}]}

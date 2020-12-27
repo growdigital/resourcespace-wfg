@@ -1,0 +1,1 @@
+{"query":"SELECT type AS `value` FROM resource_type_field WHERE ref = '8' OR name = '8'","time":1608719218,"results":[{"value":"0"}]}
